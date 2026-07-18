@@ -101,7 +101,7 @@ export default function Footer() {
 
       <div className="border-t border-sand/10">
         <p className="section-pad py-6 text-center text-xs text-sand/40">
-          © {new Date().getFullYear()} Travel Beyond. All rights reserved.
+          © {new Date().getFullYear()} Travel Beyond. All rights reserved..
         </p>
       </div>
     </footer>
